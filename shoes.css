@@ -1,0 +1,450 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    border-bottom: none;
+}
+body
+{
+    background-image: url(project.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    width: 99%;
+    height: 950px;
+}
+nav .list ul 
+{
+    padding-left: 250px;
+    font-weight: 500;
+    font-size:medium;
+    display: flex;
+    
+    list-style-type: none;
+    text-decoration:none;
+    color: beige;
+}
+nav
+{
+    display: flex;
+}
+.list li
+{
+    padding:30px;
+    padding-top: 20px;
+}
+#con
+{
+margin:50px;
+}
+.four
+{
+  float:right;
+  position: relative;
+  bottom: 80px;
+  right: 70px;
+}
+.four li 
+{
+    padding: 10px;
+    font-size:x-large;
+    color: white;
+    list-style-type: none;
+    display:inline;
+}
+#one
+{
+    width: 150px;
+    position: relative;
+    top: 350px;
+}
+h6
+{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    padding-left: 70px;
+    top: 210px;
+}
+h1
+{
+    padding-top:205px;
+    color: white;
+    font-size:70px;
+    padding-left: 70px; 
+    font-weight:600;
+    font-family:sans-serif;
+}
+p 
+{
+    color: white; 
+    font-size:large;
+    font-weight: 500; 
+    padding-left: 70px;
+}
+button
+{
+    width: 220px;
+    height: 50px;
+    border: 0.3px;
+    font-weight: 600;
+    margin-left: 80px;
+}
+#arrow_1
+{
+    position: absolute;
+    margin-top:350px;
+    opacity: 40%;
+}
+#right
+{
+    position: absolute;
+    padding-left: 1200px;
+    padding-top: 350px;
+    opacity: 40%;
+}
+.title
+{
+    font-size:medium;
+    font-weight: 500; 
+    padding-top: 200px;
+    padding-left: 10px;
+}
+.title1
+{
+    font-family:poppins,sans-serif;
+    font-size: 50px; 
+    font-weight:700; 
+    padding-left:10px;
+}
+.twoimg
+{
+    background-image: url(project.jpg);
+    width: 100%;
+    height: 45%;
+
+}
+.hed
+{
+    font-weight: 600;
+    color: white;
+    margin: 150px;
+    margin-top: 130px;
+    position: absolute;
+}
+.sty
+{
+    color: white;
+    padding: 170px;
+    padding-left:150px;
+    font-family:"Bebas Neue", sans-serif;
+    font-weight: 700;
+}
+.sp .ea
+{
+    color: white;
+    position: relative;
+    bottom: 210px;
+    left: 170px;
+
+}
+.sp .sport
+{
+    position: relative;
+    bottom: 170px;
+    left: 80px;
+    font-family:"Bebas Neue",sans-serif ;
+    font-weight: 600;
+}
+.rm
+{
+    position: relative;
+    bottom: 210px;
+    margin-left: 170px;
+    color: white;
+}
+.twoimg .rig
+{
+    
+    position: absolute;
+    padding-left: 1200px;
+    padding-top: 318px;
+    right: 860px;
+    color: white;
+    opacity: 90%;
+}
+.twoimg .shoe
+{
+    height: 75%;
+    width: 100%;
+}
+.fiveimg ul li 
+{
+   display: inline;
+   opacity: 30%;
+   padding: 70px;
+   height:50px;
+   width:50px;
+}
+.fiveimg img
+{ 
+    margin-left:10px;
+    height:90px;
+    width:90px;          
+}
+.fiveimg
+{
+    margin-top: 100px;
+}
+.ourblog
+{
+    background-color: whitesmoke;
+    height: 920px;
+    width:99%;
+}
+.ourblog .brand
+{
+    margin-left:-35px;
+    padding-top:80px;
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+}
+.ourblog .ob
+{
+    padding: 0px 0px 100px 40px;
+    font-size:50px;
+    position: absolute;
+    color: black;
+    font-weight:700 ;
+}
+.ourblog .shoeone
+{
+    margin-right: 95px;
+    padding: 90px 0px 0px 0px;
+    height: 550px;
+    width: 330px;
+}
+.ourblog .db
+{
+    color: black;
+    font-size:25px;
+    font-weight: 600;
+    padding-top: 25px;
+    margin-left: -25px;
+}
+.ourblog .paraone
+{
+   color: black;
+   margin-left: -22px;
+   font-size: 17px;
+}
+.ourblog .rm
+{
+    color: black;
+    margin-left: -22px;
+    padding-top: 220px;
+    font-weight: 500;
+    font-size: 16px;   
+}
+.ourblog .rm .rig
+{
+    margin-left: 10px;
+    opacity: 50%;
+}
+.ourblog .onedate
+{
+    padding: 0px 30px 0px 0px;
+    position:relative;
+    color: black;
+    writing-mode: vertical-lr;
+    right: 90px;
+    top: 15%;
+    font-weight: 500;
+    font-size:medium;
+}
+.ourblog .paratwo
+{
+   color: black;
+   margin-left: -22px;
+   font-size: 17px;
+}
+.ourblog #two
+{ 
+    padding: 0px 70px 0px 0px;
+    position: relative;
+    width: 400px;
+}
+.ourblog #three
+{
+    position: relative;
+}
+.photo #img 
+{
+    width: 90px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.photo #ww
+{
+    margin-left: 20px;
+    padding-top: 20px;
+    color: black;
+    font-weight: 700;
+}
+.photo p
+{
+    color:black;
+}
+.photo #imgs
+{
+    width: 110px;
+    margin-left: 90px;
+    margin-top: 120px;
+}
+.shoetext
+{
+    background-image: url(project.jpg) ;
+    width: 100%;
+    height: 60%;
+}
+.shoetext .img
+{
+    height: 400px;
+    width:650px;
+    margin-top: 100px;
+}
+.shoetext .two
+{
+    color: white;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.shoetext .new
+{
+    color: white;
+    font-size:40px;
+    padding-left: 100px;
+}
+.run .running
+{
+    padding-left: 100px;
+}
+.run .content
+{
+    padding-left: 200px;
+    bottom: 40px;
+    position:relative;
+}
+.shoetext .rm
+{
+    padding-top: 170px;
+    right: 35px;
+}
+.shoetext .rig
+{
+    color: white; 
+    position: absolute;
+    padding-left: 1200px;
+    padding-top: 390px;
+    right: 220px;
+}
+.newshoe
+{
+    background-color: white;
+    width: 100%;
+    height: 75%;
+    margin-top: 50px;
+}
+.newshoe h2
+{
+padding-top: 200px;
+font-weight:600;
+font-size: 45px;
+padding-left: 55px;
+}
+.newshoe p 
+{
+color: black;
+margin-left:-10px;
+margin-top: 50px;
+font-weight: 600;
+top: 10px;
+position: relative;
+}
+.newshoe .dvp
+{
+    background-color: black;
+    height: 4px;
+    opacity: 100%;
+    width: 82%;
+    margin-left: 60px;
+}
+.newshoe .line
+{
+    background-color: black;
+    width: 85%;
+    margin-left: 60px;
+    opacity: 100%;
+    position: relative;
+    bottom: 10px;
+}
+.newshoe .eng
+{
+    background-color: black;
+    height: 4px;
+    opacity: 100%;
+    width: 78%;
+    margin-left: 60px;
+}
+.newshoe .des
+{
+    background-color: black;
+    height: 4px;
+    opacity: 100%;
+    width: 72%;
+    margin-left: 60px;
+}
+.black
+{
+    background-color: black;
+    width: 100%;
+    height: 50%;
+    margin-top:80px;   
+    opacity: 80%;
+}
+.black .logo
+{
+    height:40px;
+    width:70px;
+    margin-top: 90px;
+    padding-left: 30px;   
+}
+.black .product
+{
+    color: white;
+    font-size:x-large;
+    font-weight: 600;
+    bottom: 40px;
+    position: relative;
+    margin-left: 30px;
+}
+.black .button
+{
+    width: 220px;
+    height: 50px;
+    border: 0.3px;
+    font-weight: 600;
+    margin-left: 80px;
+}
+.copy
+{
+    background-color: black;
+    height: 10%;
+}
+.para
+{
+    opacity: 80%;
+    color: white;
+    margin-left: 400px;
+    padding-top: 40px;
+}
